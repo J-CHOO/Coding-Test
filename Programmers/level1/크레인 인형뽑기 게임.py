@@ -21,4 +21,4 @@ def solution(board, moves):
                 break                 
             
     return answer
-#break를 안걸어줘서 board[j][i-1]에 있는 원소를 전부 끝까지 basket에 추가했어서 계속 답이 안나옴
+#break를 안걸어줘서 board[j][i-1]에 있는 원소를 전부 끝까지 basket에 추가했어서 계속 답이 안나왔었음
